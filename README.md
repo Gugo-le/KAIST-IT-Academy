@@ -15,22 +15,15 @@
  <h2>Human-Centric-Computing</h2>
 <br>
 
-  >Computing Science
-  <br>
-  >System and Network
-  <br>
-   >Software Design
-  <br>
-   >Secure Computing
-  <br> 
-   >Visual Computing
-  <br>
-   >AI
-  <br>
-   >Social Computing
-  <br>
-   >Interactive Computing
-  <br>
+>Computing Science
+>System and Network
+>Software Design
+>Secure Computing
+>Visual Computing
+>AI
+>Social Computing
+>Interactive Computing
+
 
 <h2>Q. 컴퓨터 코딩을 배워서 뭘 하나요?</h2>
 
