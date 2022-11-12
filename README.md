@@ -15,11 +15,19 @@
 <br>
 
 >Computing Science
+>
 >System and Network 
+>
 >Software Design
+>
 >Secure Computing
+>
 >Visual Computing
+>
 >AI
+>
 >Social Computing
+>
 >Interactive Computing
+
 <br>
