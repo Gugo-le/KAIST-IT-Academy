@@ -10,3 +10,6 @@
 ### 제 1교시 
 
  - KAIST 전산학부의 '가치관' (류석영 교수)
+
+ <h2>Human-Centric-Computing</h2>
+<br>
