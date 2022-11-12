@@ -13,24 +13,13 @@
 
  <h2>Human-Centric-Computing</h2>
 <br>
+
 >Computing Science
-
-  >System and Network
-  
-   >Software Design
-
-  
-   >Secure Computing
-
-  
-   >Visual Computing
-
-  
-   >AI
-
-  
-   >Social Computing
-
-  
-   >Interactive Computing
-  <br>
+>System and Network 
+>Software Design
+>Secure Computing
+>Visual Computing
+>AI
+>Social Computing
+>Interactive Computing
+<br>
