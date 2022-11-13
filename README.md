@@ -128,7 +128,10 @@
 <img src = "./img/pixel.png" width="500" height="300">
 <img src = "./img/recog.png" width="500" height="300">
 
+# CNN 전체 구조
 
 >1,2,3층 합성곱 신경망
 >
 >스트라이드
+>
+>풀링
