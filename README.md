@@ -126,6 +126,7 @@
 ..mov 파일이 안 열리네요..
 <br>
 <img src = "./img/pixel.png" width="500" height="300">
+<img src = "./img/recog.png" width="500" height="300">
 
 
 >1,2,3층 합성곱 신경망
