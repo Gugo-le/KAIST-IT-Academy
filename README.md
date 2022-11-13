@@ -199,7 +199,7 @@
 - 데이터를 여러 개의 학습 세트로 나누어, 동시에 여러 모델을 통한 학습을 진행
 - 여러 전문가의 의견을 듣고, 그것을 결합하여 최종 결정을 내리는 방식
 
-<img src = "./img/dataset.png" width="400" height="300">
+<img src = "./img/dataset.png" width="500" height="300">
 
 - 이를 통해서 과대 적합을 해결
 
