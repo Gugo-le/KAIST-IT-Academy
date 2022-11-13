@@ -113,3 +113,4 @@
 2층 신경망은 중간 층의 노드 개수가 충분할 때, 모든 함수를 근사할 수 있다.
 
 <img src = "./img/backpropagation.png" width="500" height="300">
+<img src = "./img/ex.png" width="500" height="300">
