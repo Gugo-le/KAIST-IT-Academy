@@ -179,5 +179,7 @@
 - ht는 기존 신경망의 중간 층 같은 개념
 - 다른 점은 시간적으로 앞뒤로 연결이 되어 있다는 것
 
+# 기본적인 순환 신경망(Vanilla RNN)
+
 <img src = "./img/vanilla.png" width="800" height="300">
 
