@@ -200,4 +200,4 @@
 - 신경망의 일부분을 확률적으로 삭제하여 삭제하고 남은 부분으로 학습
 - 학습데이터를 가지고 업데이트마다 노드마다 확률적 삭제를 통하여 수행
 
-<img src = "./img/dropout.png" width="500" height="300">
+<img src = "./img/dropout.png" width="600" height="300">
