@@ -216,7 +216,7 @@
 >
 >>동시에 각 층 간의 상관관계를 학습시키기 위해 일치시키는 평균 및 분산 따로 학습
 
-<img src = "./img/BN.png" width="700" height="300">
+<img src = "./img/BN.png" width="800" height="300">
 
  
  
