@@ -276,3 +276,4 @@
  - 메타버스 실습(zep)
 
 <img src = "./img/swzep.png">
+<img src = "./img/gym.png">
