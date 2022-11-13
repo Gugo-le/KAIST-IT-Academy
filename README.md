@@ -90,6 +90,6 @@
 
 <img src = "./img/AI.png" width="500" height="300">
 
+<img src = "./img/magic.png" width="500" height="300">
 <img src = "./img/dev.png" width="500" height="300">
-<img src = "./img/AI.png" width="500" height="300">
 <img src = "./img/process.png" width="500" height="300">
