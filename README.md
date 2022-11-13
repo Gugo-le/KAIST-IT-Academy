@@ -119,3 +119,5 @@
 
 - 계층적 특성 추출
 - 패턴 인식
+
+<img src = "./img/map.png" width="500" height="300">
