@@ -188,3 +188,9 @@
 <img src = "./img/overunderfitting.png" width="700" height="300">
 
 
+# 규제(Regularization)
+
+- 모델의 복잡성은 크게 손해를 보지 않으면서(편향은 거의 무변화), 분산을 많이 줄이는 방법은 없을까?
+- 원래 모델을 규제하자: 과하게 복잡한 가살을 세우지 않도록
+
+<img src = "./minimize/time.png" width="600" height="300">
