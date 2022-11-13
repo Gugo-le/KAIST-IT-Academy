@@ -201,7 +201,7 @@
 
 <img src = "./img/dataset.png" width="400" height="300">
 
-- 이를 통해서 과대 적을 해결
+- 이를 통해서 과대 적합을 해결
 
 
 ### (1) Dropout: 개념
