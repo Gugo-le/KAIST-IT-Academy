@@ -210,5 +210,13 @@
  
  <img src = "./img/nomalizaton.png" width="700" height="300">
 
+### Batch Nomalization
+
+> 층에 들어오는 평균과 분산을 일치시킴.
+>
+>>동시에 각 층 간의 상관관계를 학습시키기 위해 일치시키는 평균 및 분산 따로 학습
+
+<img src = "./img/BN.png" width="600" height="300">
+
  
  
