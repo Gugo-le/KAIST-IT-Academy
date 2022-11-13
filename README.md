@@ -75,4 +75,8 @@
 - AI 특강 및 실습
 
 >Graphics AI
+>
+>Intelligent AI
+>
+>
 
