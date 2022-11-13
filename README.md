@@ -201,3 +201,14 @@
 - 학습데이터를 가지고 업데이트마다 노드마다 확률적 삭제를 통하여 수행
 
 <img src = "./img/dropout.png" width="600" height="300">
+
+### (2) Batch 정규화(Normalization)
+
+ - 평균을 0으로, 분산을 1로 만드는 과정
+ - 평균 µ, 분산 σ2를 가지는 확률 변수 x가 있다면
+ - 확률 변수 Z = (x-µ)/σ 는 평균 0, 분산 1을 갖게 됨.
+ 
+ <img src = "./img/nomalization.png" width="600" height="300">
+
+ 
+ 
