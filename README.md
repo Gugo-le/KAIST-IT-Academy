@@ -115,4 +115,6 @@
 <img src = "./img/backpropagation.png" width="500" height="300">
 <img src = "./img/ex.png" width="500" height="300">
 
-## 합성곱 신경
+## 합성곱 신경망
+
+- 계층적 특성 
