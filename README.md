@@ -173,7 +173,7 @@
 
 # 순환 신경망 
 
-<img src = "./img/rnnfo.png" width="1000" height="300">
+<img src = "./img/rnnfo.png" width="900" height="300">
 
 - 모든 time-step에서 같은 매개 변수를 가지는 같은 함수를 사용한다.
 - ht는 기존 신경망의 중간 층 같은 개념
