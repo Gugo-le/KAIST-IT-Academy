@@ -275,7 +275,7 @@
  
 - 메타버스 실습(ZEP)
 
-<img src = "./img/zep_lounge2.PNG">
-<img src = "./img/zep_title.PNG">
-<img src = "./img/zep_game.PNG">
-<img src = "./img/zep_lounge.PNG">
+<img src = "./img/zep_lounge2.png">
+<img src = "./img/zep_title.png">
+<img src = "./img/zep_game.png">
+<img src = "./img/zep_lounge.png">
