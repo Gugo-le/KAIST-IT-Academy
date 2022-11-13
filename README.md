@@ -121,3 +121,6 @@
 - 패턴 인식
 
 <img src = "./img/map.png" width="500" height="300">
+<img src = "./img/filter.png" width="500" height="300">
+<img src = "./img/capture.mov" width="500" height="300">
+<img src = "./img/pixel.png" width="500" height="300">
