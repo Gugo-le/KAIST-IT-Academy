@@ -104,4 +104,7 @@
 - 여러 비선형 변환기법의 조합을 통해 높은 수준의 추상화를 시도하는 기계학습 알고리즘의 집합
 - 비선형 함수를 여러 층 쌓아서 만든 것
 
+<img src = "./img/learn.png" width="500" height="300">
+<img src = "./img/what.png" width="500" height="300">
+
 
