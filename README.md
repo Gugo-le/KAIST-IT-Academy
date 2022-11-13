@@ -269,5 +269,5 @@
 # 제 4교시
  - 메타버스 실습(이프렌드)
  
- <img src = "./img/IMG_3912.png">
+ <img src = "./img/IMG_3912.PNG">
  
