@@ -218,5 +218,10 @@
 
 <img src = "./img/BN.png" width="800" height="300">
 
+### Batch Normalization 해석
+ - 평균과 분산을 계산하여 모든 층에 주어질 입력 데이터의 분포가 같게 함.
+ - 은닉 층의 안정적 학습으로 인한 빠른 학습 가능
+ - 은닉 층이 가질 수 있는 값을 한정지어 변화의 폭 줄임 -> 분산 감소(규제!)
+ - 내부공변량변화(Internal Convariant Shift)문제 해결로 더 높은 learning rate 사용가능 -> 정규화 과정에서 자동으로 미분값의 크기 조절 
  
  
