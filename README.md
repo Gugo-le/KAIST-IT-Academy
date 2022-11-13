@@ -88,5 +88,5 @@
 >
 >AI 개발 
 
-<img src = "./img/AI.png" width="300" height="100">
+<img src = "./img/AI.png" width="500" height="300">
 
