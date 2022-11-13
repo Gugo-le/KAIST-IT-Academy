@@ -272,3 +272,9 @@
  <img src = "./img/IMG_3912.JPG">
  <img src = "./img/IMG_3885.PNG">
  <img src = "./img/IMG_3894.PNG">
+ 
+- 메타버스 실습(ZEP)
+
+<img src = "./img/IMG_3912.JPG">
+ <img src = "./img/IMG_3885.PNG">
+ <img src = "./img/IMG_3894.PNG">
