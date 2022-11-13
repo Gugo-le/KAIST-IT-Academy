@@ -115,4 +115,4 @@
 <img src = "./img/backpropagation.png" width="500" height="300">
 <img src = "./img/ex.png" width="500" height="300">
 
-** 합성곱 
+## 합성곱 신경
