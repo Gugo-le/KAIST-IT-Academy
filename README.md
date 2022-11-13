@@ -183,3 +183,6 @@
 
 <img src = "./img/vanilla.png" width="800" height="300">
 
+# 과대적합 극복을 통한 딥러닝의 성능 향상: Dropout and Batch Normalization
+
+
