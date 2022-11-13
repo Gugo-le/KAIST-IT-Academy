@@ -173,5 +173,5 @@
 
 # 순환 신경망 
 
-<img src = "./img/rnnfo.png" width="500" height="300">
+<img src = "./img/rnnfo.png" width="700" height="300">
 
