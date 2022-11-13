@@ -93,3 +93,7 @@
 <img src = "./img/magic.png" width="500" height="300">
 <img src = "./img/dev.png" width="500" height="300">
 <img src = "./img/process.png" width="500" height="300">
+
+### 제 2교시
+
+- 인공지능 실습 (소리 분석 앱 만들기)
