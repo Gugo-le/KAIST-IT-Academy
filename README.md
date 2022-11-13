@@ -278,4 +278,3 @@
 <img src = "./img/zep_lounge2.png">
 <img src = "./img/zep_title.png">
 <img src = "./img/zep_game.png">
-<img src = "./img/zep_lounge.png">
