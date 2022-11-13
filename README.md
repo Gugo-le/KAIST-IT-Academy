@@ -141,3 +141,7 @@
 >스트라이드
 >
 >풀링
+
+# RNN
+
+<img src = "./img/time.png" width="500" height="300">
