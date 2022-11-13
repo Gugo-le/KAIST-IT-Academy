@@ -134,6 +134,8 @@
 
 # CNN 전체 구조
 
+<img src = "./img/cnn.png" width="500" height="300">
+
 >1,2,3층 합성곱 신경망
 >
 >스트라이드
