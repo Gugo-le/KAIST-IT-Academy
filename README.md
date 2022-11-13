@@ -208,7 +208,7 @@
  - 평균 µ, 분산 σ2를 가지는 확률 변수 x가 있다면
  - 확률 변수 Z = (x-µ)/σ 는 평균 0, 분산 1을 갖게 됨.
  
- <img src = "./img/nomalization.png" width="600" height="300">
+ <img src = "./img/nomalizaton.png" width="600" height="300">
 
  
  
