@@ -128,7 +128,7 @@
 <img src = "./img/pixel.png" width="500" height="300">
 <img src = "./img/recog.png" width="500" height="300">
 
-## 풀링(polling)이란?
+## 풀링(pooling)이란?
 
 <img src = "./img/polling.png" width="500" height="300">
 
